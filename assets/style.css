@@ -4,7 +4,6 @@
 }
 
 header,
-
 footer {
     width: 100%;
     height: 120px;
@@ -13,7 +12,6 @@ footer {
 }
 
 h1,
-
 h2 {
     text-align: center;
 }
@@ -39,6 +37,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px soild gray;
+    border: 5px soild grey;
     box-shadow: 5px 10px #888888;
 }
